@@ -12,7 +12,7 @@ export default {
   name: "App",
   data() {
     return {
-      percentageValue: 0.4,
+      percentageValue: 0,
     };
   },
   components: {
